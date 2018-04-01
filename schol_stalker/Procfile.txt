@@ -1,0 +1,1 @@
+web: gunicorn scholl_stalker.wsgi --log-file -
